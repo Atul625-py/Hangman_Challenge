@@ -1,4 +1,4 @@
-# Trexquant Hangman Challenge
+# Hangman Challenge
 
 **Author:** Atul Kumar Pandey  
 **Approach:** BiLSTM + Regex Fallback
